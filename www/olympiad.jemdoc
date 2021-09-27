@@ -1,0 +1,3 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: addcss{jemdoc.css}, notime
+= Introduction for math olympiad
